@@ -1,0 +1,4 @@
+1) You have to collect 12000-15000 google review on different Custom T shirt Design shop/shore/company.     
+2) have to clean, lemmatized, generate a Topic modeling and then discover some business Ideas from those data via chance discovery         
+3) You have to explain whole procedure of topic modeling and chance discovery 
+4) You have to use Python
